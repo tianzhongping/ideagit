@@ -5,6 +5,6 @@ public class GitTest {
         System.out.println("git is easy");
         System.out.println(" go go go !");
 		System.out.println("go go go");
-        System.out.println("git branch is easy");
+        System.out.println("git branch is easy!");
     }
 }
